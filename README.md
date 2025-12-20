@@ -1,3 +1,5 @@
+This is a custom fork of Indy Tails Server to untie it from Ngrok, allowing it to be used on a VPN such as Tailscale, OpenVPN or Wireguard
+
 # Indy Tails Server
 
 An Indy Tails Server is file server that is designed to receive, store and serve
